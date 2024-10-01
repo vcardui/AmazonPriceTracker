@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 # Email data
 my_email = "carduibot@gmail.com"
-password = "ydffosgveywfvfrr"
+password = ""
 
 # Amazon link and headers
 URL = ("https://www.amazon.com.mx/Complete-Asimovs-Foundation-Foundations-Prelude/dp/B01EFDEMS8/ref=sr_1_2?crid"
